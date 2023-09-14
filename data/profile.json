@@ -54,13 +54,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto Jason Brueger: um sistema de pedidos, organização e gerenciamento de um pequeno restaurante",
+      "url": "https://github.com/AdrianaKatarina/jason-brueger",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Friandy: criação de uma rede social com foco em pessoas que gostam de doces",
+      "url": "https://github.com/AdrianaKatarina/Friandy",
+      "github": true
+    },
+    {
+      "name": "Data Lovers: Uma página web para jogadores de Pokémon GO, permitindo pesquisar, filtrar, ordenar e visualizar dados.",
+      "url": "https://github.com/AdrianaKatarina/Data-Lovers",
       "github": true
     }
   ],
